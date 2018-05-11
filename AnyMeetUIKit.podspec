@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "AnyMeetUIKit"
-  s.version      = "1.0.2"
+  s.version      = "1.0.4"
   s.summary      = "视频会议Api以及UI封装 AnyMeetUIKit."
 
   # This description is used to generate tags and improve search results.
@@ -135,6 +135,7 @@ Pod::Spec.new do |s|
 
   # s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
   s.dependency "MJExtension", '~> 3.0.13'
+  s.dependency "Masonry", '~> 1.1.0'
   s.dependency "AnyBoardEngine", '~> 1.0.4'
   s.dependency "RTMeetEngine", '~> 0.0.5'
 
