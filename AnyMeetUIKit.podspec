@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "AnyMeetUIKit"
-  s.version      = "1.0.8"
+  s.version      = "1.0.9"
   s.summary      = "视频会议Api以及UI封装 AnyMeetUIKit."
 
   # This description is used to generate tags and improve search results.
