@@ -17,6 +17,7 @@
  @param strAppId     AppId；
  @param strAppKey    AppKey；
  @param strAppToken  AppToken；
+ @param strVerifyUrl 验证地址：用户对接使用，详细见api开发文档；
  说明：该方法为配置开发者信息，上述参数均可在https://www.anyrtc.io/ manage创建应用后,管理中心获得；建议在AppDelegate.m调用。
  */
 + (void)initEngineWithAnyRTCInfo:(NSString*)strDeveloperId andAppId:(NSString*)strAppId andKey:(NSString*)strAppKey andToke:(NSString*)strAppToken andVerifyUrl:(NSString*)strVerifyUrl;
