@@ -138,5 +138,7 @@ Pod::Spec.new do |s|
   s.dependency "Masonry", '~> 1.1.0'
   s.dependency "AnyBoardEngine", '~> 1.0.4'
   s.dependency "RTMeetEngine", '~> 0.0.5'
+  s.dependency "MBProgressHUD", '~> 1.1.0'
+  s.dependency "SDWebImage", '~> 4.3.3'
 
 end
