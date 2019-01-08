@@ -13,6 +13,9 @@
 //待上传图片
 typedef void(^GotoUploadPicsBlock)(NSArray *picArray);
 
+//离开回调
+typedef void(^ARLeaveBlock)(void);
+
 @interface AnyMeetVideoController : AMVideoController
 
 @property (nonatomic, strong) MeetingInfo *meetModel;
@@ -20,6 +23,8 @@ typedef void(^GotoUploadPicsBlock)(NSArray *picArray);
 @property (nonatomic, strong) AMUserModel *userModel;
 
 @property (nonatomic, copy) GotoUploadPicsBlock uploadBlock;
+
+@property (nonatomic, copy) ARLeaveBlock leaveBlock;
 
 - (void)gotoShearPics:(NSArray*)picArray withFileId:(NSString*)fileId;
 
