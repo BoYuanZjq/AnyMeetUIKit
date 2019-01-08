@@ -6,15 +6,15 @@
 	<dict>
 		<key>AMColorMenuView.nib</key>
 		<data>
-		MFmOR+b1JIfyYhiU4EuCqwaGnEM=
+		+qPSs+377MFW/pWm2EyfSeihYDI=
 		</data>
 		<key>AMDocToolGuestView.nib</key>
 		<data>
-		lCzoIG6Iz6kFsNENw2iQHaB1X4w=
+		Ok8ElqfweQnj49/djkGlWFtFago=
 		</data>
 		<key>AMDocToolView.nib</key>
 		<data>
-		hspNNt7kmFKS5pbwasaH+m+Bjek=
+		vR50ZkPk1V4/KIfmtqZPxLHXC7w=
 		</data>
 		<key>AnyMeetUIKit.bundle/Root.plist</key>
 		<data>
@@ -401,9 +401,21 @@
 		<data>
 		RLqurVmupx3xIOs6+McNINVY0Zw=
 		</data>
+		<key>Headers/AMConfereeModel.h</key>
+		<data>
+		cxU5OY20GF+rrsAQxCLZzbHUwNU=
+		</data>
+		<key>Headers/AMInformationModel.h</key>
+		<data>
+		nEBYG8fb+WUVLPL7imR0jBCEtbs=
+		</data>
 		<key>Headers/AMMeetListModel.h</key>
 		<data>
 		V3uYBQ6myeIJ7iObnuyU2UwpL7Y=
+		</data>
+		<key>Headers/AMTopToolView.h</key>
+		<data>
+		ZzcosH6EIaF013fvXgGD/tzUL/g=
 		</data>
 		<key>Headers/AMUserModel.h</key>
 		<data>
@@ -412,6 +424,10 @@
 		<key>Headers/AMVideoController.h</key>
 		<data>
 		GCHMsk+/1x7//MTgZz0kEgfzO/A=
+		</data>
+		<key>Headers/AMVideoView.h</key>
+		<data>
+		iUU8E0NMOal+XcqhQC+QXdRN4iM=
 		</data>
 		<key>Headers/AnyMeetUIKit.h</key>
 		<data>
@@ -433,14 +449,6 @@
 		<data>
 		097qfWOfHL++ASs50u9j9ylD7F4=
 		</data>
-		<key>PrivateHeaders/AMConfereeModel.h</key>
-		<data>
-		cxU5OY20GF+rrsAQxCLZzbHUwNU=
-		</data>
-		<key>PrivateHeaders/AMInformationModel.h</key>
-		<data>
-		nEBYG8fb+WUVLPL7imR0jBCEtbs=
-		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -448,33 +456,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MFmOR+b1JIfyYhiU4EuCqwaGnEM=
+			+qPSs+377MFW/pWm2EyfSeihYDI=
 			</data>
 			<key>hash2</key>
 			<data>
-			cl439I8SrDMgw4iJi4FeqVI5ORqaSMuKc20ZksY1UDA=
+			IY9ccv6ujAQQN8r/tsFUIiBS6Q3h7GVIqX5Aa7byqCs=
 			</data>
 		</dict>
 		<key>AMDocToolGuestView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lCzoIG6Iz6kFsNENw2iQHaB1X4w=
+			Ok8ElqfweQnj49/djkGlWFtFago=
 			</data>
 			<key>hash2</key>
 			<data>
-			nekKRcRUFjiy8ZurvVvOrJp/X3zHSeVgxwOikdHxwNk=
+			DO6EPs7Emkoygjt04f2YvoJKDhlhbat+K9WvEQLjVWQ=
 			</data>
 		</dict>
 		<key>AMDocToolView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hspNNt7kmFKS5pbwasaH+m+Bjek=
+			vR50ZkPk1V4/KIfmtqZPxLHXC7w=
 			</data>
 			<key>hash2</key>
 			<data>
-			cCvMT6PSCGnlTaT7y0QQMnJRI3y+IInk9xDb75xImlI=
+			XNbHzsu/nDLHTe41TEcL0outujcm12oaYiCZaKed0qY=
 			</data>
 		</dict>
 		<key>AnyMeetUIKit.bundle/Root.plist</key>
@@ -1524,6 +1532,28 @@
 			pC4Lndh1miufl2ShuRHzVqqcqR4cOCUXEhBSR1FcdNM=
 			</data>
 		</dict>
+		<key>Headers/AMConfereeModel.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cxU5OY20GF+rrsAQxCLZzbHUwNU=
+			</data>
+			<key>hash2</key>
+			<data>
+			4w8RopYrJNszk0BH4g9n2SaGUcYS9w2GnZ1YVTXra3w=
+			</data>
+		</dict>
+		<key>Headers/AMInformationModel.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nEBYG8fb+WUVLPL7imR0jBCEtbs=
+			</data>
+			<key>hash2</key>
+			<data>
+			pKhFy02p/6e7PbxWL+ZB8j1OWGXs7A6DnHZ/mZnrkHA=
+			</data>
+		</dict>
 		<key>Headers/AMMeetListModel.h</key>
 		<dict>
 			<key>hash</key>
@@ -1533,6 +1563,17 @@
 			<key>hash2</key>
 			<data>
 			8O67Fu2PHss/gydiPNLma9+hhlWOs9pMGOLqntzB1BI=
+			</data>
+		</dict>
+		<key>Headers/AMTopToolView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZzcosH6EIaF013fvXgGD/tzUL/g=
+			</data>
+			<key>hash2</key>
+			<data>
+			1f86WjuXoA64EEWl+bT7EUI8lZs0Hg6vy7t+UCE03+A=
 			</data>
 		</dict>
 		<key>Headers/AMUserModel.h</key>
@@ -1555,6 +1596,17 @@
 			<key>hash2</key>
 			<data>
 			4cyZhB9heYsjcSAuK+eYnR6NsW8wNFv8kZJKSj8q8Zc=
+			</data>
+		</dict>
+		<key>Headers/AMVideoView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iUU8E0NMOal+XcqhQC+QXdRN4iM=
+			</data>
+			<key>hash2</key>
+			<data>
+			KuzUCpsWJKpSfwXSjUVLHOzIk+8YeidcrERakdiMJoE=
 			</data>
 		</dict>
 		<key>Headers/AnyMeetUIKit.h</key>
@@ -1599,28 +1651,6 @@
 			<key>hash2</key>
 			<data>
 			XFqcQ6M8p3/8gc+qizfxjZXniVB1O83rW9Es0pCmYak=
-			</data>
-		</dict>
-		<key>PrivateHeaders/AMConfereeModel.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			cxU5OY20GF+rrsAQxCLZzbHUwNU=
-			</data>
-			<key>hash2</key>
-			<data>
-			4w8RopYrJNszk0BH4g9n2SaGUcYS9w2GnZ1YVTXra3w=
-			</data>
-		</dict>
-		<key>PrivateHeaders/AMInformationModel.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			nEBYG8fb+WUVLPL7imR0jBCEtbs=
-			</data>
-			<key>hash2</key>
-			<data>
-			pKhFy02p/6e7PbxWL+ZB8j1OWGXs7A6DnHZ/mZnrkHA=
 			</data>
 		</dict>
 	</dict>
