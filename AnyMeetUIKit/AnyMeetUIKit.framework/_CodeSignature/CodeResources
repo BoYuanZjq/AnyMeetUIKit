@@ -6,15 +6,15 @@
 	<dict>
 		<key>AMColorMenuView.nib</key>
 		<data>
-		+qPSs+377MFW/pWm2EyfSeihYDI=
+		KuXCiN1J7m6NpZfIYyn4aksXM5A=
 		</data>
 		<key>AMDocToolGuestView.nib</key>
 		<data>
-		Ok8ElqfweQnj49/djkGlWFtFago=
+		y+eByBDu4CY/WIb7ZPo5SQfT4iU=
 		</data>
 		<key>AMDocToolView.nib</key>
 		<data>
-		vR50ZkPk1V4/KIfmtqZPxLHXC7w=
+		e9crrUFgz4lLH2VOv8b8A8mqOeA=
 		</data>
 		<key>AnyMeetUIKit.bundle/Root.plist</key>
 		<data>
@@ -413,6 +413,10 @@
 		<data>
 		V3uYBQ6myeIJ7iObnuyU2UwpL7Y=
 		</data>
+		<key>Headers/AMTabbarView.h</key>
+		<data>
+		NV8oyWkRP+n7q6TjwYciPJYzWtI=
+		</data>
 		<key>Headers/AMTopToolView.h</key>
 		<data>
 		ZzcosH6EIaF013fvXgGD/tzUL/g=
@@ -456,33 +460,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+qPSs+377MFW/pWm2EyfSeihYDI=
+			KuXCiN1J7m6NpZfIYyn4aksXM5A=
 			</data>
 			<key>hash2</key>
 			<data>
-			IY9ccv6ujAQQN8r/tsFUIiBS6Q3h7GVIqX5Aa7byqCs=
+			c1cnScDNozfVv0I5t7pOH6KXERRhdV4XfQMF2aOLgfE=
 			</data>
 		</dict>
 		<key>AMDocToolGuestView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Ok8ElqfweQnj49/djkGlWFtFago=
+			y+eByBDu4CY/WIb7ZPo5SQfT4iU=
 			</data>
 			<key>hash2</key>
 			<data>
-			DO6EPs7Emkoygjt04f2YvoJKDhlhbat+K9WvEQLjVWQ=
+			G7B60mn39IrjD1t1QViiq+zKjSfho9bMl71JXr8VsBw=
 			</data>
 		</dict>
 		<key>AMDocToolView.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vR50ZkPk1V4/KIfmtqZPxLHXC7w=
+			e9crrUFgz4lLH2VOv8b8A8mqOeA=
 			</data>
 			<key>hash2</key>
 			<data>
-			XNbHzsu/nDLHTe41TEcL0outujcm12oaYiCZaKed0qY=
+			qunecTGojrM75t0Nm9rNfY9TeE8KrXVbG5MCGP+/8j4=
 			</data>
 		</dict>
 		<key>AnyMeetUIKit.bundle/Root.plist</key>
@@ -1563,6 +1567,17 @@
 			<key>hash2</key>
 			<data>
 			8O67Fu2PHss/gydiPNLma9+hhlWOs9pMGOLqntzB1BI=
+			</data>
+		</dict>
+		<key>Headers/AMTabbarView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NV8oyWkRP+n7q6TjwYciPJYzWtI=
+			</data>
+			<key>hash2</key>
+			<data>
+			NrWFzekwjoMXtpbT2W6y6YWY33OkSJ+/EvWpWXIonCo=
 			</data>
 		</dict>
 		<key>Headers/AMTopToolView.h</key>

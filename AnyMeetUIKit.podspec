@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "AnyMeetUIKit"
-  s.version      = "2.1.1"
+  s.version      = "2.1.2"
   s.summary      = "视频会议Api以及UI封装 AnyMeetUIKit."
 
   # This description is used to generate tags and improve search results.
@@ -140,5 +140,6 @@ Pod::Spec.new do |s|
   s.dependency "RTMeetEngine", '~> 0.0.5'
   s.dependency "MBProgressHUD", '~> 1.1.0'
   s.dependency "SDWebImage", '~> 4.3.3'
+  s.dependency "TZImagePickerController", '~> 3.1.7'
 
 end
